@@ -32,7 +32,7 @@ public class AddressBook {
 		a.addBuddy(b);
 		a.removeBuddy(0);
 		
-		System.out.println("Address Book");
+		System.out.println("Address Books");
 	}
 	
 
